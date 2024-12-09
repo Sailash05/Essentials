@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 # Email sender and receiver details
 sender_email = "sailashs2005@gmail.com"
 receiver_email = "s.sailash2005@gmail.com"
-sender_password = "rrwm myum jebu iaow"  # For security, use environment variables for passwords
+sender_password = "ljur dmec poog hdxc"  # For security, use environment variables for passwords
 
 # Create the email subject, body, and sender/receiver details
 message = MIMEMultipart()
